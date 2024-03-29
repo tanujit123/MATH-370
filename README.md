@@ -5,4 +5,4 @@ A folder named Data Science contains the data and codes used during class demons
 
 The folder named Machine Learning contains the slides used in class. 
 
-Tutorials (Exercises with Solutions) are uploaded as a PDF. 
+Tutorials (Exercises with Solutions) are uploaded as a PDF (Pen and Paper Exercises on Machine Learning.pdf). 
